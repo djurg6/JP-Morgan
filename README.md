@@ -8,6 +8,10 @@
 ##### Business Activities & Future in FinTech
 
 <p>J.P. Morgan uses many types of technology to conduct their business. Whether it be with their online banking tools and convenience services, automated advisors who handle clients’ brokerage accounts, or their three-year-old blockchain platform Onyx, this firm is using technology as an imperative resource in paving its way into the future of FinTech. We can consider this a FinTech company because J.P. Morgan is currently using many assets to develop software in order to help their clients manage their finances more efficiently on their online platforms. J.P. Morgan has maintained the position as a global leader in digital payments innovation by being recognized with a No. 1 overall ranking for digital capabilities through its global cash management platform, J.P. Morgan Access, in the 2021 Coalition Greenwich Digital Banking Benchmark study.</p>
+
+
+![Onyx](Onyx.jpg)
+
 <p> While Onyx is very young, it is going to be a key component of J.P. Morgan as we head deeper into the 21st century. Onyx has the capability to be enchance the effiency of larger transactions that need to travel across the globe. For example, a typical international wire can take at least five business days to fully complete and clear the funds. With Onyx, these types of transactions can be completed in real time. This gives every day banking clients a way better experience. If this type of transaction was done by a a large corporation trying to move funds to a different country, it can increase the receiving comapny's liquidity of its assets instantly, as well as keeping an automated documented record for the sending company without them having to lift a finger. Onyx does come with its challenges however. The system is still so new and hasn't picked up as much steam so far, but that will come as FinTech continues to make strides. 
   
 ##### Competitors and Landscape
