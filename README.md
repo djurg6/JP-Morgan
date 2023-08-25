@@ -20,7 +20,7 @@
 
 ##### Conclusion & Recommendations
 
-<p> Since technology has become a part of human beings' every day life (not just in wealth management), there has constantly been new tools and applications being used to make our lives easier. J.P. Morgan has adapted accorindingly to that truth by continously creating innovative FinTech systems to provide gold standard financial services to their millions of clients worldwide. As an employee of the company, my recommendation to J.P. Morgan would be to expand the workforce in the Onyx department as roles are very limited at the moment, this is because of the service being so new that they are trying to put quality and experiences personnel in these positions, but that will come with time. However, they will continue to develop the Onyx department and be ready to take the next step into the future of financial technology.
+<p> Since technology has become a part of human beings' every day life (not just in wealth management), there has constantly been new tools and applications being used to make our lives easier. J.P. Morgan has adapted accorindingly to that truth by continously creating innovative FinTech systems to provide gold standard financial services to their millions of clients worldwide. As an employee of the company, my recommendation to J.P. Morgan would be to expand the workforce in the Onyx department as roles are very limited at the moment, this is because of the service being so new that they are trying to put quality and experienced personnel in these positions, but that will come with time. However, they will continue to develop the Onyx department and be ready to take the next step into the future of financial technology.
 
 ##### Citations
 
